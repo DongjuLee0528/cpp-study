@@ -15,6 +15,10 @@ set(SRC_FILES
         src/chapter1/chapter1_4cin.h
         src/chapter1/chapter1_5.cpp
         src/chapter1/chapter1_5.h
+        src/chapter1/chapter1_5void.cpp
+        src/chapter1/chapter1_5void.h
+        src/chapter1/chapter1_5_2.cpp
+        src/chapter1/chapter1_5_2.h
 )
 
 add_executable(CppLecture ${SRC_FILES})
