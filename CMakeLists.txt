@@ -7,6 +7,8 @@ set(SRC_FILES
         src/main.cpp
         src/chapter1/chapter1_1.cpp
         src/chapter1/chapter1_1.h
+        src/chapter1/chapter1_3.cpp
+        src/chapter1/chapter1_3.h
 )
 
 add_executable(CppLecture ${SRC_FILES})
