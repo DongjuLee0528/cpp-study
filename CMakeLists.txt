@@ -1,6 +1,12 @@
 cmake_minimum_required(VERSION 4.1)
-project(cpp)
+project(CppLecture)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp main.cpp)
+set(SRC_FILES
+        src/main.cpp
+        src/chapter1/chapter1_1.cpp
+        src/chapter1/chapter1_1.h
+)
+
+add_executable(CppLecture ${SRC_FILES})
