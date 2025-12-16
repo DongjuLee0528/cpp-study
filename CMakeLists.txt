@@ -19,6 +19,10 @@ set(SRC_FILES
         src/chapter1/chapter1_5void.h
         src/chapter1/chapter1_5_2.cpp
         src/chapter1/chapter1_5_2.h
+        src/review/chapter1/sum_two_numbers.cpp
+        src/review/chapter1/sum_two_numbers.h
+        src/review/chapter1/sum_two_numbers_func.cpp
+        src/review/chapter1/sum_two_numbers_func.h
 )
 
 add_executable(CppLecture ${SRC_FILES})
