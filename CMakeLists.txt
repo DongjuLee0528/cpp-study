@@ -25,6 +25,8 @@ set(SRC_FILES
         src/review/chapter1/sum_two_numbers_func.h
         src/chapter1/chapter1_6.cpp
         src/chapter1/chapter1_6.h
+        src/chapter1/chapter1_7.cpp
+        src/chapter1/chapter1_7.h
 )
 
 add_executable(CppLecture ${SRC_FILES})
