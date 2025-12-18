@@ -33,6 +33,10 @@ set(SRC_FILES
         src/chapter1/chapter1_9.h
         src/chapter1/chapter1_10.cpp
         src/chapter1/chapter1_10.h
+        src/chapter1/chapter1_11.cpp
+        src/chapter1/chapter1_11.h
+        src/chapter1/add.cpp
+        src/chapter1/add.h
 )
 
 add_executable(CppLecture ${SRC_FILES})
