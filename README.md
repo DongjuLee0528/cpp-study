@@ -2,6 +2,7 @@
 
 현재 **C++ 기초 문법을 학습 중**이며,  
 아래 유튜브 강의 자료를 기반으로 공부하고 있습니다.
+아직은 잘 못하지만 꾸준하게 공부중입니다!
 
 - 강의 채널: 인프런 홍정모의 따라하며 배우는 C++
 - 링크: https://www.inflearn.com/course/following-c-plus/dashboard
