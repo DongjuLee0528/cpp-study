@@ -5,6 +5,6 @@
 아직은 잘 못하지만 꾸준하게 공부중입니다!
 C언어도 함꼐 복습중입니다!
 
--강사: 홍정모
+- 강사: 홍정모
 - 강의 채널: 인프런 홍정모의 따라하며 배우는 C++
 - 링크: https://www.inflearn.com/course/following-c-plus/dashboard
