@@ -6,4 +6,4 @@
 C언어도 함꼐 복습중입니다!
 
 - 강사: 홍정모
-- 강의 채널: [인프런 홍정모의 따라하며 배우는 C++] (https://www.inflearn.com/course/following-c-plus/dashboard)
+- 강의 채널: [인프런 홍정모의 따라하며 배우는 C++](https://www.inflearn.com/course/following-c-plus/dashboard)
