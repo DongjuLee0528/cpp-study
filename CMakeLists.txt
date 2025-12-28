@@ -1,13 +1,9 @@
-# CMake 최소 버전 지정 (※ 4.1은 매우 높아서 대부분 환경에서 빌드 실패 가능)
 cmake_minimum_required(VERSION 4.1)
 
-# 프로젝트 이름 설정 (언어를 명시하려면: project(CppLecture LANGUAGES CXX))
 project(CppLecture)
 
-# C++ 표준 버전 설정
 set(CMAKE_CXX_STANDARD 20)
 
-# 빌드에 포함할 소스/헤더 파일 목록
 set(SRC_FILES
         src/main.cpp
 
